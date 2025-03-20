@@ -2,7 +2,7 @@
     "title": "内容分发网络",
     "description": [
         "此页面整合了 DiamondPie 公开/分享的所有资源",
-        "建议收藏该页面，资源可能随时更新"
+        "建议收藏该页面，资源可能随时更新 UwU"
     ],
     "section": [
         {
@@ -58,6 +58,36 @@
                         },
                         "Bilibili 介绍视频": {
                             "link": "https://www.bilibili.com/video/BV17x4y1t7sY",
+                            "copytype": null,
+                            "copycontent": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Coding",
+            "block": [
+                {
+                    "title": "Python",
+                    "detail": {
+                        "Python 官网": {
+                            "link": "https://www.python.org",
+                            "copytype": null,
+                            "copycontent": null
+                        },
+                        "Python 下载": {
+                            "link": "https://www.python.org/downloads/",
+                            "copytype": null,
+                            "copycontent": null
+                        }
+                    }
+                },
+                {
+                    "title": "VSCode",
+                    "detail": {
+                        "VSCode 下载": {
+                            "link": "https://code.visualstudio.com/Download",
                             "copytype": null,
                             "copycontent": null
                         }
