@@ -11,7 +11,10 @@
                 {
                     "title": "bbb",
                     "link": {
-                        "ccc": "https://www.example.com"
+                        "ccc": {
+                            "link": "https://www.example.com",
+                            "hash": "abc"
+                        }
                     }
                 }
             ]
