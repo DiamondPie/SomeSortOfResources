@@ -6,14 +6,60 @@
     ],
     "section": [
         {
-            "title": "aaa",
+            "title": "Minecraft",
             "block": [
                 {
-                    "title": "bbbccc",
-                    "link": {
-                        "ccc": {
-                            "link": "https://www.example.com",
-                            "hash": "abc"
+                    "title": "PCL II",
+                    "detail": {
+                        "正式版 bbsmc 下载地址": {
+                            "link": "https://bbsmc.net/software/pcl",
+                            "copytype": null,
+                            "copycontent": null
+                        },
+                        "正式版 蓝奏云 下载地址": {
+                            "link": "https://ltcat.lanzouv.com/b0aj6gsid",
+                            "copytype": "提取码",
+                            "copycontent": "pcl2"
+                        },
+                        "正式版 夸克网盘 下载地址": {
+                            "link": "https://pan.quark.cn/s/8a343b247b18",
+                            "copytype": null,
+                            "copycontent": null
+                        }
+                    }
+                },
+                {
+                    "title": "HMCL",
+                    "detail": {
+                        "正式版 下载地址": {
+                            "link": "https://hmcl.huangyuhui.net/download/",
+                            "copytype": null,
+                            "copycontent": null
+                        },
+                        "HMCL 食用教程": {
+                            "link": "https://www.bilibili.com/video/BV1oa411K777",
+                            "copytype": null,
+                            "copycontent": null
+                        }
+                    }
+                },
+                {
+                    "title": "DeceasedCraft",
+                    "detail": {
+                        "整合包 v5.5.5 下载直链": {
+                            "link": "https://mediafilez.forgecdn.net/files/5525/524/DeceasedCraft-5.5.5.zip",
+                            "copytype": "哈希值",
+                            "copycontent": "SHA256 E93668E97A8061BEBFDF16424BC3A1702F262B142CBF13ECD3B165EB246A9F1B"
+                        },
+                        "整合包 Curseforge 页面": {
+                            "link": "https://www.curseforge.com/minecraft/modpacks/deceasedcraft",
+                            "copytype": null,
+                            "copycontent": null
+                        },
+                        "Bilibili 介绍视频": {
+                            "link": "https://www.bilibili.com/video/BV17x4y1t7sY",
+                            "copytype": null,
+                            "copycontent": null
                         }
                     }
                 }
