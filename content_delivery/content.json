@@ -6,7 +6,7 @@
     ],
     "section": [
         {
-            "title": "Minecraft",
+            "title": "Minecraft 启动器",
             "block": [
                 {
                     "title": "PCL II",
@@ -44,6 +44,21 @@
                     }
                 },
                 {
+                    "title": "官方启动器",
+                    "detail": {
+                        "下载页面": {
+                            "link": "https://www.minecraft.net/zh-hans/download",
+                            "copytype": null,
+                            "copycontent": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Minecraft 整合包 & 地图",
+            "block": [
+                {
                     "title": "DeceasedCraft",
                     "detail": {
                         "整合包 v5.5.5 下载直链": {
@@ -58,6 +73,21 @@
                         },
                         "Bilibili 介绍视频": {
                             "link": "https://www.bilibili.com/video/BV17x4y1t7sY",
+                            "copytype": null,
+                            "copycontent": null
+                        }
+                    }
+                },
+                {
+                    "title": "机械动力 6.0 魔改包",
+                    "detail": {
+                        "整合包 下载直链": {
+                            "link": "",
+                            "copytype": null,
+                            "copycontent": null
+                        },
+                        "汉化材质包 下载直链": {
+                            "link": "",
                             "copytype": null,
                             "copycontent": null
                         }
