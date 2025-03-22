@@ -72,6 +72,13 @@
                     "copytype": null,
                     "copycontent": null
                 }
+            },
+            "MC 派对 2 (1.20.4)": {
+                "地图材质包": {
+                    "link": "https://www.dropbox.com/scl/fi/5ey74rmy7jm0pshxqbuub/Minecraft-2.zip?rlkey=3ghp71q1wpn8iw5apueh4q90c&st=hzhkdcvi&dl=1",
+                    "copytype": "哈希值",
+                    "copycontent": "SHA256 E41F5FDF23258249E8252F4B0C44899D7FBC1C37EB7BFCB3ECBD759E8B020086"
+                }
             }
         },
         "Coding": {
