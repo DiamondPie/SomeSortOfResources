@@ -63,14 +63,9 @@
             },
             "机械动力 6.0 魔改包": {
                 "整合包 下载直链": {
-                    "link": "",
-                    "copytype": null,
-                    "copycontent": null
-                },
-                "汉化材质包 下载直链": {
-                    "link": "",
-                    "copytype": null,
-                    "copycontent": null
+                    "link": "https://www.dropbox.com/scl/fi/gvk78kdnea1o4tlc9oa3m/Create-6.0.zip?rlkey=bnybt17at4cg9lxq041al52jc&st=8yp32zco&dl=1",
+                    "copytype": "哈希值",
+                    "copycontent": "SHA256 041EA57497ED0166D281202EA01C18416A223E95CDEA3FE51DBE6EDFEFA7BBC5"
                 }
             },
             "MC 派对 2 (1.20.4)": {
